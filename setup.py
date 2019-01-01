@@ -7,7 +7,7 @@ with open('README.rst') as f:
 
 setup(
     name='simple-redis-lock',
-    version='0.1.0',
+    version='0.1.1',
     description='A simple redis lock.',
     long_description=readme,
     author='codeif',
